@@ -898,7 +898,7 @@ function Library:create(options)
 	rawset(mt, "creditsContainer", creditsTab.container)
 
 	creditsTab:credit{Name = "!CPP", Description = "UI/script Library Developer", Discord = "https://discord.gg/AcB4hzYuyR", V3rmillion = "????"}
-	creditsTab:credit{Name = "디스코드 서버 가입하기", Description = "디스코드 아이콘 클릭시 서버링크 복사", Discord = "https://discord.gg/AcB4hzYuyR",V3rmillion = ""}
+	creditsTab:credit{Name = "디스코드 서버 가입하기", Description = "디스코드 아이콘 클릭시 서버링크 복사", Discord = "https://discord.gg/AcB4hzYuyR", V3rmillion = ""}
 
 	
 	return mt
